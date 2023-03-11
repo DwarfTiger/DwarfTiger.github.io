@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: '常回家看看'
+subtitle: 'Σ(っ °Д °;)っ'
+description: '随笔'
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: DwarfTiger
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
-permalink: :year/:month/:day/:title/
+url: https://dwarftiger.github.io/
+permalink: :category/:year-:month-:day/:title.html
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
